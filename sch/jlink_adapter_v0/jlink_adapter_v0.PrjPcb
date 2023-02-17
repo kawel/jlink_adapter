@@ -107,12 +107,145 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIHJLLES
 
+[Document5]
+DocumentPath=jlink_adapter_v0.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Outputs\Design Rule Check - jlink_adapter_v0.html
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.3D Bottom
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Outputs\Net Status - jlink_adapter_v0.html
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.3D Top
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Assembly Bottom
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Assembly Text Bottom
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Assembly Text Top
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Assembly Top
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Courtyard Bottom
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Courtyard Top
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Dimensions Bottom
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Dimensions Top
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Default Configuration\Outputs\NC Drill\jlink_adapter_v0.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GM31
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Default Configuration\Outputs\NC Drill\jlink_adapter_v0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Outline
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Test Points Bottom
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Default Configuration\Outputs\Gerber\jlink_adapter_v0.Test Points Top
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Default Configuration\Outputs\NC Drill\jlink_adapter_v0.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -123,7 +256,9 @@ ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=0
-OutputJobsCount=0
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=jlink_adapter_v0.OutJob
 
 [OutputGroup1]
 Name=Netlist Outputs
